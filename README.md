@@ -1,2 +1,1 @@
-# namazonclub_upg
-Resurrection of Namazon club
+Resurrection of Namazon club. 
